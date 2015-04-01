@@ -1,0 +1,2 @@
+# ethnic_harvest
+to update the json fully you might need to change the xdebug.max_nesting_level in your php.ini to 200. However, that takes too long, so leaving it at 100 is good for checking code errors. Setting it to 200 is good for updating the json.
