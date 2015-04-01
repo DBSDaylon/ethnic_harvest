@@ -639,5 +639,1183 @@
     },
     "Gwi": {
         "LangLink": "http://www.ethnicharvest.org/bibles/gwi.htm"
+    },
+    "Haitian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/haitian.htm",
+        "iso": "hat",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001UL86UE/ref=nosim/websitesupport"
+    },
+    "Hakka": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hakka.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9866674339/ref=nosim/websitesupport"
+    },
+    "Hanga": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hanga.htm",
+        "iso": "hag",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OD08OE/ref=nosim/websitesupport"
+    },
+    "Hausa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hausa.htm",
+        "iso": "hau",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OD0LQE/ref=nosim/websitesupport"
+    },
+    "Hausteco": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hausteco.htm",
+        "iso": "hus"
+    },
+    "Haya": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/haya.htm",
+        "iso": "hay"
+    },
+    "Hawaiian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hawaiian.htm",
+        "iso": "haw",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1167318455/ref=nosim/websitesupport"
+    },
+    "Hebrew": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hebrew.html",
+        "iso": "heb",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1565633598/ref=nosim/websitesupport"
+    },
+    "Herero": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/herero.htm",
+        "iso": "***",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001N6FZKU/ref=nosim/websitesupport"
+    },
+    "Hiligaynon": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hiligaynon.htm",
+        "iso": "hil",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0005435676/ref=nosim/websitesupport"
+    },
+    "Hindi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hindi.htm",
+        "iso": "hin",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1574491679/ref=nosim/websitesupport"
+    },
+    "Hmong": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hmong.htm",
+        "iso": "mww",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9623271530/ref=nosim/websitesupport"
+    },
+    "Hokkien": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hokkien.htm",
+        "iso": "nan"
+    },
+    "Hungarian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/hungarian.htm",
+        "iso": "hun",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9637369325/ref=nosim/websitesupport"
+    },
+    "Icelandic": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/icelandic.htm",
+        "iso": "isl"
+    },
+    "Igala": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/igala.htm",
+        "iso": "igl",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002ODAQJ6/ref=nosim/websitesupport"
+    },
+    "Igbo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/igbo.htm",
+        "iso": "ibo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OD2054/ref=nosim/websitesupport"
+    },
+    "Igede": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/igede.htm",
+        "iso": "ige"
+    },
+    "Igo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/igo.htm",
+        "iso": "ahl"
+    },
+    "Ilokano": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ilokano.htm",
+        "iso": "ilo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001QBDR4I/ref=nosim/websitesupport"
+    },
+    "Ilongot": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ilongot.htm",
+        "iso": "ilk"
+    },
+    "India": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/india.htm"
+    },
+    "Indonesian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/indonesia.htm",
+        "iso": "ind",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B003XNB0VO/ref=nosim/websitesupport"
+    },
+    "Inga": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/inga.htm",
+        "iso": "inb"
+    },
+    "Inuktitut": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/inuktitut.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1554787572/ref=nosim/websitesupport"
+    },
+    "Inupiaq": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/inupiaq.htm",
+        "iso": "esi",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0005002796/ref=nosim/websitesupport"
+    },
+    "Iranian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/iranian.htm"
+    },
+    "Irish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/irish.htm",
+        "iso": "gle",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001QNA0EG/ref=nosim/websitesupport"
+    },
+    "Isekiri": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/isekiri.htm",
+        "iso": "its",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002ODFQFU/ref=nosim/websitesupport"
+    },
+    "Italian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/italian.htm",
+        "iso": "ita",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001UBFQ4I/ref=nosim/websitesupport"
+    },
+    "Ixil": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ixil.htm",
+        "iso": "ixl",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OFVHF6/ref=nosim/websitesupport"
+    },
+    "Jacalteco": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/jacalteco.htm",
+        "iso": "jac"
+    },
+    "Japanese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/japanese.htm",
+        "iso": "jpn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/4264021839/ref=nosim/websitesupport"
+    },
+    "Javanese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/surjavanese.htm",
+        "iso": "jvn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002D5WCY2/ref=nosim/websitesupport"
+    },
+    "Jju": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/jju.htm",
+        "iso": "kaj"
+    },
+    "Jukun": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/jukun.htm",
+        "iso": "juk"
+    },
+    "Jula": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/jula.htm",
+        "iso": "dyu",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WQOJC/ref=nosim/websitesupport"
+    },
+    "Kabiye": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kabiye.htm",
+        "iso": "kbp"
+    },
+    "Kako": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kako.htm",
+        "iso": "kkj"
+    },
+    "Kalenjin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kalenjin.htm",
+        "iso": "kln",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WOX90/ref=nosim/websitesupport"
+    },
+    "Kalmyk": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kalmyk.htm",
+        "iso": "xal"
+    },
+    "Kanjobal": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kanjobal.htm",
+        "iso": "knj"
+    },
+    "Kamba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kamba.htm",
+        "iso": "kam",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OPJ56Y/ref=nosim/websitesupport"
+    },
+    "Kannada": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kannada.htm",
+        "iso": "kan",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/188542793X/ref=nosim/websitesupport"
+    },
+    "Kanuri": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kanuri.htm",
+        "iso": "knc"
+    },
+    "Kaqchikel": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kaqchikel.htm"
+    },
+    "Karaboro": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/karaboro.htm",
+        "iso": "xrb"
+    },
+    "Karakalpak": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/karakalpak.htm",
+        "iso": "kaa"
+    },
+    "Karelian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/karelian.htm"
+    },
+    "Karen": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/karen.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001C720US/ref=nosim/websitesupport"
+    },
+    "Kasem": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kasem.htm",
+        "iso": "xsm"
+    },
+    "Kazakh": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kazakh.htm",
+        "iso": "kaz",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0038F3BJG/ref=nosim/websitesupport"
+    },
+    "K'eckchi'": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kekchi.htm",
+        "iso": "kek"
+    },
+    "Khakas": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/khakas.htm",
+        "iso": "kjh"
+    },
+    "Khana": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/khana.htm",
+        "iso": "ogo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WJSQS/ref=nosim/websitesupport"
+    },
+    "Khasi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/khasi.htm",
+        "iso": "kha",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/8122102190/ref=nosim/websitesupport"
+    },
+    "Khmer (Central)": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/cambodian.htm",
+        "iso": "khm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9623273304/ref=nosim/websitesupport"
+    },
+    "Kikuyu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/gikuyu.htm",
+        "iso": "kik",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B00112Z0B0/ref=nosim/websitesupport"
+    },
+    "Kimbundu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kimbundu.htm",
+        "iso": "kmb",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WJS54/ref=nosim/websitesupport"
+    },
+    "Kinyarwanda": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kinyarwanda.htm",
+        "iso": "kin",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966275169/ref=nosim/websitesupport"
+    },
+    "Kire": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kire.htm",
+        "iso": "geb"
+    },
+    "Kirundi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kirundi.htm",
+        "iso": "run",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OPURW0/ref=nosim/websitesupport"
+    },
+    "Kisi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kisi.htm",
+        "iso": "kqs"
+    },
+    "Kiswahili": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/swahili.htm",
+        "iso": "swh",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966409556/ref=nosim/websitesupport"
+    },
+    "Kituba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kituba.htm",
+        "iso": "ktu",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002RA34K4/ref=nosim/websitesupport"
+    },
+    "Kom": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kom.htm",
+        "iso": "bkm"
+    },
+    "Komi-Zyryan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/komi-zyryan.htm",
+        "iso": "kpv"
+    },
+    "Konda-Dora": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kondadora.htm",
+        "iso": "kfc"
+    },
+    "Konkomba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/konkomba.htm",
+        "iso": "xon"
+    },
+    "Korean": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/korean.htm",
+        "iso": "kor",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0014SE2CY/ref=nosim/websitesupport"
+    },
+    "Koryak": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/koryak.htm",
+        "iso": "kpy"
+    },
+    "Kosovo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/albanian.html",
+        "ethnic_harvest_links": "http://www.ethnicharvest.org/bibles/albanian.html#AlbanianChildBible,",
+        "iso": "als",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1563444089/ref=nosim/websitesupport"
+    },
+    "Kosraean": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kosraean.htm",
+        "iso": "kos",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002BT0CCO/ref=nosim/websitesupport"
+    },
+    "Krahn": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/krahn.htm",
+        "iso": "kqo"
+    },
+    "Krio": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/krio.htm",
+        "iso": "kri",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OTZY2O/ref=nosim/websitesupport"
+    },
+    "Kui": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kui.htm",
+        "iso": "kui",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9748897966/ref=nosim/websitesupport"
+    },
+    "Kumyk": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kumyk.htm"
+    },
+    "Kuna": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kuna.htm",
+        "iso": "cuk"
+    },
+    "Kuanua (Tolai)": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kuanua.htm",
+        "iso": "ksd",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9980633212/ref=nosim/websitesupport"
+    },
+    "Kurdish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kurdish.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B004DYWN9A/ref=nosim/websitesupport"
+    },
+    "Kusaal": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kusaal.htm",
+        "iso": "kus"
+    },
+    "Kyrgyz": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kyrgyz.htm",
+        "iso": "kir",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002RXBB2E/ref=nosim/websitesupport"
+    },
+    "Laari": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/laari.htm",
+        "iso": "ldi",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002RA1SQG/ref=nosim/websitesupport"
+    },
+    "Lahu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lahu.htm",
+        "iso": "lhu",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9748687422/ref=nosim/websitesupport"
+    },
+    "Lamba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lamba.htm",
+        "iso": "lam"
+    },
+    "Lambadi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lambadi.htm",
+        "iso": "lmn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OU22T6/ref=nosim/websitesupport"
+    },
+    "Lango": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lango.htm",
+        "iso": "lno",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966403213/ref=nosim/websitesupport"
+    },
+    "Lao": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lao.htm",
+        "iso": "lao",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1921445912/ref=nosim/websitesupport"
+    },
+    "Latin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/latin.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/3438053004/ref=nosim/websitesupport"
+    },
+    "Latvian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/latvian.htm",
+        "iso": "lav",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0595478425/ref=nosim/websitesupport"
+    },
+    "Lawa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lawa.htm",
+        "iso": "lcp",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9748904776/ref=nosim/websitesupport"
+    },
+    "Lelemi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lelemi.htm",
+        "iso": "lef"
+    },
+    "Lhomi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lhomi.htm",
+        "iso": "lhm"
+    },
+    "Limbum": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/limbum.htm",
+        "iso": "lmp"
+    },
+    "Lingala": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lingala.htm",
+        "iso": "lin",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OU2YTO/ref=nosim/websitesupport"
+    },
+    "Lithuanian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lithuanian.htm",
+        "iso": "lit",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9986790697/ref=nosim/websitesupport"
+    },
+    "Lomwe": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lomwe.htm",
+        "iso": "ngl"
+    },
+    "Luba-Kasai": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lubakasai.htm",
+        "iso": "lua"
+    },
+    "Luganda": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ganda.htm",
+        "iso": "lug",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002HA19LU/ref=nosim/websitesupport"
+    },
+    "Luo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/luo.htm",
+        "iso": "luo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966480226/ref=nosim/websitesupport"
+    },
+    "Luyia": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/luyia.htm",
+        "iso": "luy"
+    },
+    "Maasai": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/maasai.htm",
+        "iso": "mas"
+    },
+    "Macedonian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/macedonian.htm",
+        "iso": "mkd",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9989254680/ref=nosim/websitesupport"
+    },
+    "Malagasy": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/malagasy.htm",
+        "iso": "plt",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001QN5D6G/ref=nosim/websitesupport"
+    },
+    "Malayalam": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/malayalam.htm",
+        "iso": "mal",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/8122102654/ref=nosim/websitesupport"
+    },
+    "Malay": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/malaysia.htm",
+        "iso": "mly",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9830300153/ref=nosim/websitesupport"
+    },
+    "Mam": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mam.htm"
+    },
+    "Mambila": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mambila.htm",
+        "iso": "mcu"
+    },
+    "Mampruli": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mampruli.htm",
+        "iso": "maw"
+    },
+    "Mandarin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/chinese.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0031GU7LW/ref=nosim/websitesupport"
+    },
+    "Manx Gaelic": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/manxgaelic.html",
+        "iso": "glv"
+    },
+    "Maori": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/maori.htm",
+        "iso": "mri",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B00210T6SO/ref=nosim/websitesupport"
+    },
+    "Mapudungun": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mapudungun.htm",
+        "iso": "arn"
+    },
+    "Marathi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/marathi.htm",
+        "iso": "mar",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1932438777/ref=nosim/websitesupport"
+    },
+    "Mari: Low": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mari-low.html"
+    },
+    "Masaba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/masaba.htm",
+        "iso": "myx",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WJRLO/ref=nosim/websitesupport"
+    },
+    "Mawachi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mawachi.htm",
+        "iso": "mke"
+    },
+    "Mayan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/maya.htm",
+        "iso": "yua"
+    },
+    "Mazateco": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mazateco.htm"
+    },
+    "Meitei": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/meitei.htm",
+        "iso": "mni"
+    },
+    "Mende": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mende.htm",
+        "iso": "men"
+    },
+    "Meru": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/meru.htm",
+        "iso": "mer",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966480633/ref=nosim/websitesupport"
+    },
+    "Micmac": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/micmac.htm",
+        "iso": "mic",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/088834421X/ref=nosim/websitesupport"
+    },
+    "Mien": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mien.htm",
+        "iso": "ium",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002PJSLC8/ref=nosim/websitesupport"
+    },
+    "Miniyanka": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/miniyanka.htm",
+        "iso": "myk"
+    },
+    "Miskito": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/miskito.htm",
+        "iso": "miq"
+    },
+    "Mixteco": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mixteco.htm"
+    },
+    "Mongolian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mongolian.htm",
+        "iso": "khk",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0979905605/ref=nosim/websitesupport"
+    },
+    "Moore": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/moore.htm",
+        "iso": "mos"
+    },
+    "Mordvin-Erzya": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mordvin-erzya.htm",
+        "iso": "myv"
+    },
+    "Mordvin-Moksha": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/mordvin-moksha.htm",
+        "iso": "mdf"
+    },
+    "Munukutuba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/munukutuba.htm",
+        "iso": "mkw",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B000EORBEK/ref=nosim/websitesupport"
+    },
+    "Muskogee": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/muskogee.htm",
+        "iso": "mus"
+    },
+    "Nafaanra": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nafaanra.htm",
+        "iso": "nfr"
+    },
+    "Naga: Ao": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/aonaga.htm",
+        "iso": "njo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B007TIMJJ6/ref=nosim/websitesupport"
+    },
+    "Nahuatl": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nahuatl.htm"
+    },
+    "Navajo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/navajo.htm",
+        "iso": "nav",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9995792273/ref=nosim/websitesupport"
+    },
+    "Ndebele": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ndebele.htm",
+        "iso": "nde",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001NLE10U/ref=nosim/websitesupport"
+    },
+    "Nepali": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nepali.htm",
+        "iso": "nep",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002V70ZAU/ref=nosim/websitesupport"
+    },
+    "Ngambay": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ngambay.htm",
+        "iso": "sba"
+    },
+    "Nivacle": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nivacle.htm",
+        "iso": "cag"
+    },
+    "Northern Khmer": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/northernkhmer.htm",
+        "iso": "kxm"
+    },
+    "Norwegian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/norwegian.htm",
+        "iso": "nob",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0017N9H3A/ref=nosim/websitesupport"
+    },
+    "Ntcham (Bassar)": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/bassar.htm",
+        "iso": "bud",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002NC7UME/ref=nosim/websitesupport"
+    },
+    "Nuer": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nuer.htm",
+        "iso": "nus"
+    },
+    "Nuni": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nuni.htm",
+        "iso": "nnw"
+    },
+    "Nupe": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nupe.htm",
+        "iso": "nup"
+    },
+    "Nyanja": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nyanja.htm",
+        "iso": "nya",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B000ENYSUQ/ref=nosim/websitesupport"
+    },
+    "Nzema": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/nzema.htm",
+        "iso": "nzi"
+    },
+    "Obolo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/obolo.htm",
+        "iso": "ann"
+    },
+    "Ojibwe": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ojibwe.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0000119504/ref=nosim/websitesupport"
+    },
+    "Okrika": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/okrika.htm",
+        "iso": "okr"
+    },
+    "O'Othham": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/oothham.htm",
+        "iso": "ood"
+    },
+    "Oriya": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/oriya.htm",
+        "iso": "ori",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1932438793/ref=nosim/websitesupport"
+    },
+    "Oromo, West Central": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/oromo.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002PY8FJW/ref=nosim/websitesupport"
+    },
+    "Oromo, Borana-Arsi-Guji": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/boranaoromo.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002PY8FJW/ref=nosim/websitesupport"
+    },
+    "Osetin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/osetin.htm",
+        "iso": "oss"
+    },
+    "Paiute": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/paiute.htm",
+        "iso": "pao"
+    },
+    "Pampango": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/pampango.htm",
+        "iso": "pam"
+    },
+    "Panjabi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/punjabi.htm",
+        "iso": "pnb",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1932438742/ref=nosim/websitesupport"
+    },
+    "Persian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/persian.htm",
+        "iso": "prs",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0016MJW82/ref=nosim/websitesupport"
+    },
+    "Pangasinan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/pangasinan.htm",
+        "iso": "pag"
+    },
+    "Pashto": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/pashto.htm",
+        "iso": "pbu"
+    },
+    "Pidgin, Cameroon": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/pidgin.htm",
+        "iso": "wes"
+    },
+    "Pidgin, Tok Pisin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tokpisin.htm",
+        "iso": "tpi",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/085804174X/ref=nosim/websitesupport"
+    },
+    "Plautdietsch": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/plautdietsch.htm",
+        "iso": "pdt",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002PYBNOG/ref=nosim/websitesupport"
+    },
+    "Polish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/polish.htm",
+        "iso": "pol",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002CH7X1I/ref=nosim/websitesupport"
+    },
+    "Portuguese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/portuguese.htm",
+        "iso": "por",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/2825414530/ref=nosim/websitesupport"
+    },
+    "Potawatomi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/potawatomi.htm",
+        "iso": "pot"
+    },
+    "Punjabi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/punjabi.htm",
+        "iso": "pnb",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1932438742/ref=nosim/websitesupport"
+    },
+    "Quechua": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/quechua.htm"
+    },
+    "Quiche": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/quiche.htm"
+    },
+    "Quichua": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/quichua.htm",
+        "iso": "qug"
+    },
+    "Romani": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/romani.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001R8ZXEC/ref=nosim/websitesupport"
+    },
+    "Romanian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/romanian.htm",
+        "iso": "ron",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9739704735/ref=nosim/websitesupport"
+    },
+    "Rundi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kirundi.htm",
+        "iso": "run",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002OPURW0/ref=nosim/websitesupport"
+    },
+    "Russian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/russian.htm",
+        "iso": "rus",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/5877270303/ref=nosim/websitesupport"
+    },
+    "Sabaot": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sabaot.htm",
+        "iso": "spy"
+    },
+    "Saint Lucian Creole": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/saintluciancreole.htm",
+        "iso": "acf"
+    },
+    "Samarenyo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/samarenyo.htm",
+        "iso": "war",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WE82W/ref=nosim/websitesupport"
+    },
+    "Samoan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/samoan.htm",
+        "iso": "smo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001AUNN08/ref=nosim/websitesupport"
+    },
+    "Sanskrit": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sanskrit.htm",
+        "iso": "san",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1115611860/ref=nosim/websitesupport"
+    },
+    "Santali": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/santali.htm",
+        "iso": "sat",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001QVKQ6K/ref=nosim/websitesupport"
+    },
+    "Saramaccan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/saramaccan.htm",
+        "iso": "srm"
+    },
+    "Sarnami Hindustani": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sarnami.htm",
+        "iso": "hns"
+    },
+    "Scottish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/scottish.htm",
+        "iso": "gla",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001SBJERK/ref=nosim/websitesupport"
+    },
+    "Sena": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sena.htm",
+        "iso": "seh"
+    },
+    "Senoufo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/senoufo.htm",
+        "iso": "tgw"
+    },
+    "Serbian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/serbian.htm",
+        "iso": "srp",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002TVXIRA/ref=nosim/websitesupport"
+    },
+    "Shona": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/shona.htm",
+        "iso": "sna",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002E50HXE/ref=nosim/websitesupport"
+    },
+    "Shuar": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/shuar.htm",
+        "iso": "jiv"
+    },
+    "Sinhalese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sinhalese.htm",
+        "iso": "sin",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B005TUYYKS/ref=nosim/websitesupport"
+    },
+    "Sisaala Tumulung": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sisaalatumulung.htm",
+        "iso": "sil"
+    },
+    "Sissala": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sissala.htm",
+        "iso": "sld"
+    },
+    "Siswati": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/siswati.htm",
+        "iso": "ssw",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001SBZZGO/ref=nosim/websitesupport"
+    },
+    "Slavonic": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/slavonic.htm",
+        "iso": "chu",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/5855240096/ref=nosim/websitesupport"
+    },
+    "Slovak": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/slovak.htm",
+        "iso": "slk",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/8085486113/ref=nosim/websitesupport"
+    },
+    "Slovenian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/slovenian.htm",
+        "iso": "slv",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9616726056/ref=nosim/websitesupport"
+    },
+    "Somali": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/somali.htm",
+        "iso": "som",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/1843523957/ref=nosim/websitesupport"
+    },
+    "Sora": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sora.htm",
+        "iso": "srb"
+    },
+    "Spanish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/spanish.htm"
+    },
+    "Sranan Tongo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sranantongo.htm",
+        "iso": "srn"
+    },
+    "Sudanese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sudanese.htm",
+        "iso": "apd",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002C7VUH6/ref=nosim/websitesupport"
+    },
+    "Sukuma": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sukuma.htm",
+        "iso": "suk"
+    },
+    "Sundanese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/sundanese.htm",
+        "iso": "sun",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002QCI8C2/ref=nosim/websitesupport"
+    },
+    "Suriname Javanese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/surjavanese.htm",
+        "iso": "jvn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002D5WCY2/ref=nosim/websitesupport"
+    },
+    "Swahili": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/swahili.htm",
+        "iso": "swh",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9966409556/ref=nosim/websitesupport"
+    },
+    "Swati": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/siswati.htm",
+        "iso": "ssw",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001SBZZGO/ref=nosim/websitesupport"
+    },
+    "Swedish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/swedish.htm",
+        "iso": "swe",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9152655148/ref=nosim/websitesupport"
+    },
+    "Syriac": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/syriac.htm",
+        "iso": "aii",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9754620474/ref=nosim/websitesupport"
+    },
+    "Tabasaran": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tabasaran.htm",
+        "iso": "tab"
+    },
+    "Tagalog": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tagalog.htm",
+        "iso": "fil",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B00BECTR5C/ref=nosim/websitesupport"
+    },
+    "Tahitian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tahitian.htm",
+        "iso": "tah",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0040IO3R4/ref=nosim/websitesupport"
+    },
+    "Tajik": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tajik.htm",
+        "iso": "tgk",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B004IXTE7A/ref=nosim/websitesupport"
+    },
+    "Tamasheq": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tamasheq.htm",
+        "iso": "taq"
+    },
+    "Tamil": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tamil.htm",
+        "iso": "tam",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B005TV97GI/ref=nosim/websitesupport"
+    },
+    "Tatar": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tatar.htm",
+        "iso": "tat",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/5855240398/ref=nosim/websitesupport"
+    },
+    "Telugu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/telugu.htm",
+        "iso": "tel",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/7902030295/ref=nosim/websitesupport"
+    },
+    "Teochew": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/teochew.htm",
+        "iso": "nan"
+    },
+    "Teso": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/teso.htm",
+        "iso": "teo",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/996640242X/ref=nosim/websitesupport"
+    },
+    "Thai": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/thai.htm",
+        "iso": "tha",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B004IY0E3M/ref=nosim/websitesupport"
+    },
+    "Tibetan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/Tibetan.htm",
+        "iso": "bod",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/8122115454/ref=nosim/websitesupport"
+    },
+    "Tigrinya": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tigrinya.htm",
+        "iso": "tir",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/996627636X/ref=nosim/websitesupport"
+    },
+    "Tiwa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tiwa.htm",
+        "iso": "twf"
+    },
+    "Tok Pisin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tokpisin.htm",
+        "iso": "tpi",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/085804174X/ref=nosim/websitesupport"
+    },
+    "Tolai (Tinata Tuna)": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/kuanua.htm",
+        "iso": "ksd",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9980633212/ref=nosim/websitesupport"
+    },
+    "Tongan": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tonga.htm",
+        "iso": "ton",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0034M1OVA/ref=nosim/websitesupport"
+    },
+    "Tshiluba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/lubakasai.htm",
+        "iso": "lua"
+    },
+    "Tsonga": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tsonga.htm",
+        "iso": "tso",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002QGY4PS/ref=nosim/websitesupport"
+    },
+    "Tswa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tswa.htm",
+        "iso": "tsc"
+    },
+    "Tswana": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tswana.htm",
+        "iso": "tsn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0086LSFFM/ref=nosim/websitesupport"
+    },
+    "Tucano": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tucano.htm",
+        "iso": "tuo"
+    },
+    "Tumbuka": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tumbuka.htm",
+        "iso": "tum"
+    },
+    "Turkish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/turkish.htm",
+        "iso": "tur",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9754620539/ref=nosim/websitesupport"
+    },
+    "Tuvin": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tuvin.htm",
+        "iso": "tyv"
+    },
+    "Twi": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/akan.htm",
+        "ethnic_harvest_links": "http://www.ethnicharvest.org/bibles/akan.htm#fantebible,",
+        "iso": "aka",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9964780400/ref=nosim/websitesupport"
+    },
+    "Turkmen": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/turkmen.htm",
+        "iso": "tuk",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/5855240657/ref=nosim/websitesupport"
+    },
+    "Tzeltal": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tzeltal.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002QHA1RM/ref=nosim/websitesupport"
+    },
+    "Tzotzil": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tzotzil.htm",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002QH7EFY/ref=nosim/websitesupport"
+    },
+    "Tzutujil": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tzutujil.htm",
+        "iso": "tzj"
+    },
+    "Ukrainian": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/ukrainian.htm",
+        "iso": "ukr",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B00E5UOHTQ/ref=nosim/websitesupport"
+    },
+    "Uma": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/uma.htm",
+        "iso": "ppk"
+    },
+    "Umbundu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/umbundu.htm",
+        "iso": "umb"
+    },
+    "Urak Lawoi'": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/uraklawoi.htm",
+        "iso": "urk",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/9748959619/ref=nosim/websitesupport"
+    },
+    "Urdu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/urdu.htm",
+        "iso": "urd",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/969000509X/ref=nosim/websitesupport"
+    },
+    "Uspantec": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/uspantec.htm",
+        "iso": "usp"
+    },
+    "Uyghur": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/uighur.htm",
+        "iso": "uig",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B00E5WBOSQ/ref=nosim/websitesupport"
+    },
+    "Uzbek": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/uzbek.htm",
+        "iso": "uzn",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B000K5FN52/ref=nosim/websitesupport"
+    },
+    "Vagla": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/vagla.htm",
+        "iso": "vag"
+    },
+    "Vietnamese": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/vietnamese.htm",
+        "iso": "vie",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0018DNCLC/ref=nosim/websitesupport"
+    },
+    "Waray-Waray": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/samarenyo.htm",
+        "iso": "war",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B0011WE82W/ref=nosim/websitesupport"
+    },
+    "Wayuu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/guajiro.htm",
+        "iso": "guc"
+    },
+    "Welsh": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/welsh.htm",
+        "iso": "cym",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0854906088/ref=nosim/websitesupport"
+    },
+    "Wolof": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/wolof.htm",
+        "iso": "wol"
+    },
+    "Xhosa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/xhosa.htm",
+        "iso": "xho",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002ODFBWS/ref=nosim/websitesupport"
+    },
+    "Xitshwa": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/tswa.htm",
+        "iso": "tsc"
+    },
+    "Yakut": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/yakut.htm",
+        "iso": "sah"
+    },
+    "Yanomamo": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/yanomamo.htm",
+        "iso": "guu"
+    },
+    "Yiddish": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/yiddish.htm",
+        "iso": "ydd"
+    },
+    "Yombe": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/yombe.htm",
+        "iso": "yom",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B001R8XCL8/ref=nosim/websitesupport"
+    },
+    "Yoruba": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/yoruba.htm",
+        "iso": "yor",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0564006432/ref=nosim/websitesupport"
+    },
+    "Zande": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/zande.htm",
+        "iso": "zne",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/B002CBYHT0/ref=nosim/websitesupport"
+    },
+    "Zapoteco": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/zapoteco.htm"
+    },
+    "Zulu": {
+        "LangLink": "http://www.ethnicharvest.org/bibles/zulu.htm",
+        "iso": "zul",
+        "amazon_links": "http://www.amazon.com/exec/obidos/ASIN/0852342381/ref=nosim/websitesupport"
     }
 }
